@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.927f8ea2.css",
+    "main.js": "/static/js/main.9f16d739.js",
+    "static/js/787.007397a8.chunk.js": "/static/js/787.007397a8.chunk.js",
+    "static/media/JosefinSans-Thin.ttf": "/static/media/JosefinSans-Thin.c773deb91d92307b9a9d.ttf",
+    "static/media/JosefinSans-Thin.woff": "/static/media/JosefinSans-Thin.d940897675889f84a8ab.woff",
+    "static/media/button1.svg": "/static/media/button1.b039210d75c76a80bffa.svg",
+    "static/media/Rectangle.svg": "/static/media/Rectangle.a52a0b6a442b4ebfe58b.svg",
+    "static/media/activebutton.svg": "/static/media/activebutton.8070aa957efef181248f.svg",
+    "static/media/circle.svg": "/static/media/circle.bb1f48de4a4c1f618063.svg",
+    "index.html": "/index.html",
+    "main.927f8ea2.css.map": "/static/css/main.927f8ea2.css.map",
+    "main.9f16d739.js.map": "/static/js/main.9f16d739.js.map",
+    "787.007397a8.chunk.js.map": "/static/js/787.007397a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.927f8ea2.css",
+    "static/js/main.9f16d739.js"
+  ]
+}
